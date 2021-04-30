@@ -1,0 +1,60 @@
+---
+course_id: 11-601-introduction-to-environmental-policy-and-planning-fall-2016
+layout: course_section
+menu:
+  leftnav:
+    identifier: 9356994af7029c0e8037f1fd286ac932
+    name: Calendar
+    weight: 20
+title: Calendar
+type: course
+uid: 9356994af7029c0e8037f1fd286ac932
+
+---
+
+Unit 1: Federal Environmental Policy-Making
+-------------------------------------------
+
+| SES # | TOPICS |
+| --- | --- |
+| 1 | **Introduction** {{< br >}}{{< br >}} What do environmental planners do? What is the connection between environmental planning and environmental policy-making? A review of the objectives of 11.601. A heads-up on the Socratic approach used in the class. Student responsibilities and grading policy. {{< br >}}{{< br >}} Discussion question: What are the most important indicators of the success of an environmental policy? {{< br >}}{{< br >}}  |
+| 2 | **Introduction to Unit 1** {{< br >}}{{< br >}} How are environmental policies formulated and implemented at the national level in the United States? {{< br >}}{{< br >}} Discussion question: If you were trying to understand why an environmental policy is designed the way it is, what two things would you look at first? {{< br >}}{{< br >}} _Scenario #1_ {{< br >}}{{< br >}}  |
+| 3 | **The Policy-Making Process** {{< br >}}{{< br >}} What are the key features of the federal environmental policy-making process? Is it useful to think about policy-making as a linear process that goes through certain predictable stages? {{< br >}}{{< br >}} Discussion question: Does public policy-making follow a predictable process? {{< br >}}{{< br >}} _Scenario #2_ {{< br >}}{{< br >}}  |
+| 4 | **Policy Evaluation** {{< br >}}{{< br >}} How can we tell whether national environmental policies are working? Should state and local environmental policies be evaluated differently from federal policies? {{< br >}}{{< br >}} Discussion question: How soon after a policy is adopted can its impact/effectiveness be evaluated? {{< br >}}{{< br >}} _Scenario #3_ {{< br >}}{{< br >}}  |
+| 5 | **Comparative Policy Analysis** {{< br >}}{{< br >}} Do you expect different countries to have different environmental policies? Why? What can a comparative look at environmental policy-making teach us? {{< br >}}{{< br >}} Given the substantial differences in the way national governments approach environmental policy and natural resource management, what can we hope to learn from comparative analysis of these policies and approaches? {{< br >}}{{< br >}} _Scenario #4_ {{< br >}}{{< br >}}  |
+| 6 | **A Theory of Environmental Planning and Policy-Making** {{< br >}}{{< br >}} Can there be such a thing? What should we be looking for: a theory of the "problem?" A descriptive or a normative theory of the process by which human and natural systems interact? A prescriptive "theory of environmental planning practice?" {{< br >}}{{< br >}} Discussion question: Why are public policy-makers and environmental managers so unlikely to build explicit adaptive management efforts into the programs and policies for which they are responsible? {{< br >}}{{< br >}}  
+
+Unit 2: Environmental Ethics and the Environmental Policy Debate
+----------------------------------------------------------------
+
+| SES # | TOPICS |
+| --- | --- |
+| 7 | **Environmental Ethics** {{< br >}}{{< br >}} How should ethical considerations come into play in environmental planning and policy-making? What is shared by the various environmental philosophies and what distinguises each? How do you position each along a philosophical continuum? {{< br >}}{{< br >}} Discussion question: Which argument for protecting endangered species is most convincing to you and why? {{< br >}}{{< br >}} _First written assignment due_ {{< br >}}{{< br >}}  |
+| 8 | **Utilitarianism vs. Deep Ecology** {{< br >}}{{< br >}} What is utilitarianism and how does it find its way into environmental policy-making and planning? What is deep ecology and in what ways should it and does it come into play in environmental policy-making and planning? {{< br >}}{{< br >}} Discussion question: Do you believe that America should exercise the precautionary principle? {{< br >}}{{< br >}} _Scenario #5_ {{< br >}}{{< br >}}  |
+| 9 | **Sustainability vs. Economic Growth** {{< br >}}{{< br >}} What is sustainability? Are the goals of sustainability and economic growth incompatible? What is the difference between economic growth and economic development? {{< br >}}{{< br >}} Discussion question: What is the difference between economic growth and economic development? {{< br >}}{{< br >}} _Scenario #6_ {{< br >}}{{< br >}}  |
+| 10 | **Scientific Expertise vs. Indigenous Knowledge** {{< br >}}{{< br >}} What is scientific expertise and what part does it play in environmental policy and planning? What role do we expect science and scientists to play in a democracy? What is indigenous knowledge? How should environmental policy-making and planning take account of indigenous or local knowledge, especially when it is at odds with what recognized scientific experts have to say? {{< br >}}{{< br >}} Discussion question: How do you define "local knowledge"? {{< br >}}{{< br >}} _Scenario #7_ {{< br >}}{{< br >}}  
+
+Unit 3: Environmental Planning Techniques
+-----------------------------------------
+
+| SES # | TOPICS |
+| --- | --- |
+| 11 | **Environmental Analysis: Science, Policy, and Politics in Environmental Decision-Making** {{< br >}}{{< br >}} What model should be used to describe the ideal interaction between science, politics, and policy in a democratic context? What are the tools of environmental analysis that experts have to offer? How should we assess the strengths and weaknesses of these analytic tools? When and how should they be used (and by whom) to produce "better" policy and planning? {{< br >}}{{< br >}} Discussion question: Should science trump politics in environmental decision-making? {{< br >}}{{< br >}} _Second written assignment due_ {{< br >}}{{< br >}}  |
+| 12 | **Environmental Impact Assessment** {{< br >}}{{< br >}} What is it? How do you do it? How would we know a good Environmental Impact Assessment (EIA) from a bad one? {{< br >}}{{< br >}} Discussion question: Is it possible for an Environmental Impact Assessment or a Social Impact Assesment to have a beneficial result (and be worth the cost) if it leads to no changes in the proposed project? Explain. {{< br >}}{{< br >}} _Scenario #8_ {{< br >}}{{< br >}}  |
+| 13 | **Cost-Benefit Analysis** {{< br >}}{{< br >}} What is it? How do you do it? What are the key challenges to using Cost-Benefit Analysis in environmental decision-making? {{< br >}}{{< br >}} Discussion question: When would you use cost-benefit analysis to support environmental decision-making? Why? {{< br >}}{{< br >}} _Scenario #9_ {{< br >}}{{< br >}}  |
+| 14 | **Risk Assessment** {{< br >}}{{< br >}} What is risk assessment? How do you do it? What is the relationship between risk assessment and risk management? How does risk perception factor into risk assessment? {{< br >}}{{< br >}} Discussion question: Given enormous uncertainty with regard to environmental risk, why is it important to do risk assessments? {{< br >}}{{< br >}} _Scenario #10_ {{< br >}}{{< br >}}  |
+| 15 | **[Humboldt Game Simulation Role Play](https://www.pon.harvard.edu/shop/humboldtmediating-a-regional-development-dispute/)** {{< br >}}{{< br >}} _Simulation reflection due tomorrow_ {{< br >}}{{< br >}} _Note: This mediation simulation is property of Harvard University's Program on Negotiation. To access the negotiation, users will need to pay a fee._ {{< br >}}{{< br >}}  |
+| 16 | **Ecosystem Services Analysis** {{< br >}}{{< br >}} Shoudl we attempt to value the goods and services that nature provides to society? How should we meausre the value of an ecosystem service? {{< br >}}{{< br >}} Discussion question: Some people argue that efforts to calculate the value of ecosystem services is the first step to privatizing nature and selling it off to the highest bidder. Do you agree? {{< br >}}{{< br >}} _Scenario #11_ {{< br >}}{{< br >}}  |
+| 17 | **Simulation and Modeling** {{< br >}}{{< br >}} What are they? How should they be used in environmental decision-making? {{< br >}}{{< br >}} Discussion question: In what ways do you think models (of what specific kinds?) can be helpful to environmental planners and policy-makers? {{< br >}}{{< br >}}  |
+| 18 | **Scenario Planning** {{< br >}}{{< br >}} What is scenario planning? How do you do it? Can and should it be part of environmental planning? {{< br >}}{{< br >}} Discussion question: What is the strongest case you can make for using a "predict-and-plan" approach, even in the face of substantial uncertainty? {{< br >}}{{< br >}} _Third written assignment due_ {{< br >}}{{< br >}}  
+
+Unit 4: Public Participation and Collaborative Decision-Making
+--------------------------------------------------------------
+
+| SES # | TOPICS |
+| --- | --- |
+| 19 | **Public Participation and Group Decision-Making** {{< br >}}{{< br >}} How can the basic tenents of democracy be respected while still ensuring "sound" environmental planning? What assumptions should we make about the role that citizens, stakeholders, and the public-at-large ought to play in environmental decision-making? {{< br >}}{{< br >}} Discussion question: Can you say in a few sentences what democracy requires by way of public participation in governmental decision-making? {{< br >}}{{< br >}}  |
+| 20 | **Public Participation Timelines** {{< br >}}{{< br >}} Polling, focus groups, public hearings, advisory committees, and online dialogue. When should they be used and for what purpose? {{< br >}}{{< br >}} Discussion question: Why use an independent mediator to help resolve resource allocation conflicts in the public sector? After all, isn't this the responsibility of elected and appointed officials (including courts and judges) to do this? {{< br >}}{{< br >}} _Scenario #12_ {{< br >}}{{< br >}}  |
+| 21 | **Collaborative Decision-Making** {{< br >}}{{< br >}} What part should consensus building and collaboration play in a theory of environmental planning? What are the minimum conditions for effective stakeholder involvement in collaborative decision-making with public agencies? {{< br >}}{{< br >}} Discussion question: Consensus building or collaborative planning only matters if it gets "good" results. What are the outcomes you would measure and in a few words, how would you measure them? (Gunston, Day, and Williams use surveys of different stakeholders. Is that sufficient?) {{< br >}}{{< br >}} _Scenario #13_ {{< br >}}{{< br >}}  |
+| 22 | **Consensus Building and Dispute Resolution** {{< br >}}{{< br >}} Neutrality, advocacy, and the role of the planner. {{< br >}}{{< br >}} Discussion question: Why do you think it is so difficult for people with contending views to reach mutually advantageous agreements in public disputes? {{< br >}}{{< br >}} _Scenario #14_ {{< br >}}{{< br >}} _Final written assignment due_ {{< br >}}{{< br >}}  |
+| 23 | **Politics, Power, and Theories of Collective Action** {{< br >}}{{< br >}} In the final analysis, since planning is a political activity and political outcomes are inevitably a product of political power, is it possible for environmental planning to produce decisions that do something other than reflect and reinforce the existing distribution of power? How do theories of collective action (i.e. managing the commons, the failures of market forces to discount future needs properly, the failures of the market to internalize social costs, and the emergence of the public interest) shape environmental policy-making and planning? {{< br >}}{{< br >}} Discussion question: Do you think it is important to have a statistically representative sample of citizen reactions to ensure the legitimacy of a public participation effort? {{< br >}}{{< br >}}
